@@ -10,7 +10,7 @@ class ClassComponent extends Component {
   render() {
     return (
       <div className="border">
-        FunctionComponent-{this.props.name}
+        ClassComponent-{this.props.name}
       </div>
     )
   }

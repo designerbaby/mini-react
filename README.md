@@ -9,3 +9,11 @@
   - [ ] vdom
   - [ ] 单线程数据流
   - [ ] fiber原理
+
+
+### 三、启动
+
+  - 启动 `yarn start`
+  - 启动测试 `yarn test`
+  - 构建 `yarn build`
+  - `yarn eject`
